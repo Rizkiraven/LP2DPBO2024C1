@@ -1,5 +1,3 @@
-
-https://github.com/Rizkiraven/LP2DPBO2024C1/assets/107761120/55cb333f-1823-45fa-b88c-8d44acff84fb
 # Latihan Praktikum 2 DPBO 2024
 # Janji
 
@@ -15,4 +13,4 @@ yang mengimplementasikan konsep Multi-level Inheritance pada kelas - kelas terse
 - Shirt    : color, sleeve_type.
 
 # Java
-Uploading JavaLP2.mp4…
+https://github.com/Rizkiraven/LP2DPBO2024C1/assets/107761120/55cb333f-1823-45fa-b88c-8d44acff84fb
