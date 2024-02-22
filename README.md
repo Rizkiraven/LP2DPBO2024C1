@@ -31,3 +31,9 @@ https://github.com/Rizkiraven/LP2DPBO2024C1/assets/107761120/55cb333f-1823-45fa-
 
 ### C++
 https://github.com/Rizkiraven/LP2DPBO2024C1/assets/107761120/7c324836-72ac-4eb3-bddc-c954554021e0
+
+### Python
+https://github.com/Rizkiraven/LP2DPBO2024C1/assets/107761120/c86f75bf-4fc9-42d7-b3cf-cdc29c3f2b80
+
+### PHP
+![Screenshot 2024-02-23 011424](https://github.com/Rizkiraven/LP2DPBO2024C1/assets/107761120/df42d428-ff20-4451-8dad-e8391a5f5531)
